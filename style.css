@@ -4,7 +4,7 @@ font-size: 15px;
 line-height: 1.5;
 padding: 0;
 margin: 0;
-background-color: #3B82F6;
+background-color: #f4f4f4;
 }
 ul{
   text-decoration: none;
@@ -49,7 +49,7 @@ header nav{
   margin-top: 10px;
 }
 header .highlate, header .current a{
-  color: #e8491d;
+  color: #3B82F6;
   font-weight: bold;
 }
 header a:hover{
@@ -91,7 +91,7 @@ header a:hover{
 }
 button{
 height: 38px;
-background: #e8491d;
+background: #3B82F6;
 border: 0;
 padding-left: 20px;
 padding-right: 20px;
@@ -115,7 +115,7 @@ footer{
   padding: 20px;
   margin-top: 20px;
   color: white;
-  background: #e8491d;
+  background: #3B82F6;
   text-align: center;
 }
 /*sidebar*/
